@@ -18,6 +18,8 @@ server or Cloudflare free tier, no subscriptions.
 | [client-report-starter](https://github.com/zicula/client-report-starter) | Branded client report page: edit one JSON, deploy, share privately |
 | [geo-audit-starter](https://github.com/zicula/geo-audit-starter) | Ask ChatGPT + Perplexity your buyer questions, score brand visibility |
 
+| [error-tracking-starter](https://github.com/zicula/error-tracking-starter) | Self-hosted error reporting: dedupe + burst guard + Telegram alerts, one file |
+
 #### What I sell
 
 Full kits in the same categories (client portals, monitoring, booking pages,
